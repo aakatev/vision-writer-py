@@ -1,0 +1,1 @@
+export GOOGLE_APPLICATION_CREDENTIALS="/home/aakatev/sfhacks/sf-hacks-api/config.json"
